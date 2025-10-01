@@ -1,6 +1,6 @@
 ## Repository contenente esercizi su matrici in linguaggio C++
 
-**1 Predict** 
+**1 Predict**
 
 Esercizi con codice svolto da valutare e commentare
 
@@ -11,3 +11,7 @@ Esercizi con codice parzialmente svolto, da modificare secondo una consegna spec
 **3 Create**
 
 Esercizi di programmazione, da specifica funzionale viene richiesto di scrivere un programma in C++
+
+> Per svolgere gli esercizi è possibile scaricare i file andando su
+> - Code
+>   - Download ZIP
